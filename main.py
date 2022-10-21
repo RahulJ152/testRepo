@@ -21,3 +21,7 @@ y = 2345234
 
 z = -1
 h = 9 * 9
+
+
+if True:
+    print("Hello")
